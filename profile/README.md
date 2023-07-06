@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://victor.kiwi/assets/img/applify/logo-white-no-background.png"  />
+  <img height="200" src="https://victor.kiwi/assets/img/applify/logo-black-white-background-wm.png"  />
 </div>
 
 # Applify, create beautiful forms 
